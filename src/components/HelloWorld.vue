@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1 class="color">{{ msg }}</h1>
+    <a>你好</a>
 <!--    <p>-->
 <!--      For a guide and recipes on how to configure / customize this project,<br>-->
 <!--      check out the-->
