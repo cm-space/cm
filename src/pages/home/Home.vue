@@ -9,8 +9,6 @@
 import HeaderContent from '@/pages/home/components/Header'
 import SwiperContent from '@/pages/home/components/Swiper'
 
-console.log(SwiperContent)
-
 export default {
   name: 'Home',
   components: {
